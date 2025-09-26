@@ -6,7 +6,7 @@ It trains and evaluates the model on the **Breast Cancer dataset** from `sklearn
 
 ---
 
-## 📌 Features
+##  Features
 - Implements logistic regression without using `sklearn.linear_model` or any ML libraries.
 - Uses **gradient descent** for parameter optimization.
 - Includes:
@@ -19,13 +19,13 @@ It trains and evaluates the model on the **Breast Cancer dataset** from `sklearn
 ---
 
 
-## 📂 Project Structure
+##  Project Structure
 
 Logistic_Regression_from_Scratch__No_ML_Libraries/
 │── Logistic_Regression.py # Main implementation
 │── README.md # Project documentation
 
-## ⚙️ Requirements
+##  Requirements
 - Python 
 - NumPy
 - scikit-learn
