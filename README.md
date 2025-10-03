@@ -25,6 +25,8 @@ Logistic_Regression_from_Scratch__No_ML_Libraries/
 │── Logistic_Regression.py # Main implementation
 │── README.md # Project documentation
 
+
+
 ##  Requirements
 - Python 
 - NumPy
