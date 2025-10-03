@@ -31,7 +31,7 @@ Logistic_Regression_from_Scratch__No_ML_Libraries/
 - NumPy
 - scikit-learn
 
-##Sources Helps Me : 
+##  Sources Helps Me : 
 Read and watch : https://www.geeksforgeeks.org/machine-learning/understanding-logistic-regression/ 
 
 Install dependencies:
