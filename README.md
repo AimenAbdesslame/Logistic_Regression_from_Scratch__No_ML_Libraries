@@ -18,7 +18,6 @@ It trains and evaluates the model on the **Breast Cancer dataset** from `sklearn
 
 ---
 
-
 ##  Project Structure
 
 Logistic_Regression_from_Scratch__No_ML_Libraries/
